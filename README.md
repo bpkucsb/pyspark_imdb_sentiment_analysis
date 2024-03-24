@@ -11,4 +11,4 @@ This is a bare bones analysis in PySpark and future iterations should include n-
 
 The final logistic regression model has a ROC AUC of 0.83, which will be improved in future iterations.
 
-<img width="616" alt="Screen Shot 2024-03-05 at 6 51 37 PM" src="https://github.com/bpkucsb/pyspark_imdb_sentiment_analysis/assets/13769127/5a2db948-7ffe-4217-96fc-8620bba9900e">
+<img width="587" alt="Screen Shot 2024-03-24 at 2 18 50 PM" src="https://github.com/bpkucsb/pyspark_imdb_sentiment_analysis/assets/13769127/0e63cfa0-eeac-4393-9628-7a63bda76486">
